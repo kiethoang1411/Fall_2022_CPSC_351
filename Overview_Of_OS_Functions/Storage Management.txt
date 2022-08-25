@@ -1,0 +1,10 @@
+Second Resource
+
+Hard disk 
+
+Caching: temporarily store data/instructions in faster storage and access them from there.
+
+Hardware Registers - CPU  
+Cache Memory
+Main Memory - Ram
+Magnetic Disk - Hard

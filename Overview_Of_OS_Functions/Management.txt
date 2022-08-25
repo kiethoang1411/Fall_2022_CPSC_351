@@ -1,0 +1,43 @@
+What is OS?
+
+- A program that:	
+	- Runs at all times
+	- Manages computer's hardware resources
+	- Provides basis for application programs.
+The diversity of OS:
+- Windows, MacOS, Android, iOS, etc.
+
+OS's Place in the Overall System
+- Components of a computer system: application programs, OS, and computer hardware.
+
+What does an OS do?
+- Users and computers perceive the role of OS differently.
+
+Process Management
+Process: a unit of work on the system
+Program vs Process:
+	Program: is a set of instructions (a passive entity)
+	Process: a program in execution (an active entity)
+ 
+Process Managament
+
+For Computer counts as milisecond, microsecond. 
+
+IPC
+
+Two modes of execution
+	User mode: When a process is executing
+	System mode When the OS is executing
+
+Ex: Typical process execution case:
+
+Why two modes?
+	To protect OS from the errant programs/users
+	To protect errant users/programs from each other.
+
+To know what mode the system is currently in, CPU maintains a mode bit
+	set to 0 when in system mode.
+	set to 1 when in user mode
+
+Main memory (RAM) - 
+Secpmd memory (Hard disk)

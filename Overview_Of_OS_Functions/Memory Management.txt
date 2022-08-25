@@ -1,0 +1,7 @@
+Main memory:
+	A large array of bytes where each byte has its own address
+	The only large storage directly accessible by the CPU
+Memory Management:
+	Keep track of what parts of memory are being used by what processes
+	Decide which processes to move into and out of memory
+	Allocate and dellocate memory as need

@@ -1,0 +1,2 @@
+Protection: Controls the access of users and processes to the system resources.
+Security: Defending the OS against external threats
